@@ -1,3 +1,2 @@
-# MESA Seminar
-## Learning HTML, CSS & JavaScript
-### Professor Stephen Gilbert
+# Learning HTML, CSS & JavaScript
+Professor Stephen Gilbert
