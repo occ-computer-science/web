@@ -1,22 +1,5 @@
 @charset "utf-8";
 
-/*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 1
-   Tutorial Case
-   Filename: ct_layout2.css
-
-   This file contains the layout styles used in the Curbside Thai website
-
-*/
-
-/* =============================================
-	Base layout styles used by mobile devices
-	up to 480px and cascaded to larger devices 
-	unless superceded by other styles.
-   =============================================
-*/
-
 html {
 	height: 100%;
 	font-size: 14px;
@@ -139,7 +122,7 @@ q:after {content:close-quote;}
 article p, article address {font-family: "Times New Roman", Times, serif;}
 /* =============================================
 	Tablet layout styles used by devices
-	481px to 768px and cascaded to larger 
+	481px to 768px and cascaded to larger
 	devices.
    =============================================
 */
